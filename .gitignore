@@ -1,0 +1,10 @@
+# Build files
+bin/
+build/
+
+# OS files
+.DS_Store
+*.exe
+
+# VS Code
+.vscode/
