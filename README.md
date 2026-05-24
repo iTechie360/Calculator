@@ -1,9 +1,12 @@
-# Calculator By Jesse Jimmy Mafusa (iTechie 360)
+# Calculator By Jesse Jimmy Mafusa @ iTechie 360
 # Copyright (C) 2025 iTechie 360
 
 # C++ Simple Calculator
 
 A modular C++ console calculator built with clean architecture.
+
+Software Engineer - GitHub [Jesse Jim] (https://github.com/IAmJesseJim)
+                  - Portfolio (https://iamjessejim.vercel.app)
 
 ## Features
 - Addition
